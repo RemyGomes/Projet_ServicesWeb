@@ -12,7 +12,7 @@ namespace BusinessLayer
     public class ThronesTournamentManager
     {
 
-        DalManager dal;
+        DalManager dal= new DalManager();
         private List<Fight> listOfFights;
 
 
@@ -57,7 +57,7 @@ namespace BusinessLayer
             List<Territory> territories = dal.GetTerritories();
             foreach(Territory t in territories)
             {
-                Console.WriteLine(t.GetOwner() + " est la famille propriétaire de ce terrain. " + "Ce terrain est de type " + t.GetTypeOfTerritory() + "." );
+                Console.WriteLine(t.GetOwner().GetHouseName() + " est la famille propriétaire de ce terrain. " + "Ce terrain est de type " + t.GetTypeOfTerritory() + "." );
             }
         }
 

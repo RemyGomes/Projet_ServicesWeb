@@ -70,7 +70,6 @@ namespace StubDataAccessLayer
         }
 
         //Retourner la liste de l’ensemble des caractéristiques des personnages existantes
-        
     }
 
 }

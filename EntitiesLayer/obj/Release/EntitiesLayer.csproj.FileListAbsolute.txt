@@ -1,0 +1,6 @@
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\EntitiesLayer\bin\Release\EntitiesLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\EntitiesLayer\bin\Release\EntitiesLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\EntitiesLayer\obj\Release\EntitiesLayer.csprojAssemblyReference.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\EntitiesLayer\obj\Release\EntitiesLayer.csproj.CoreCompileInputs.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\EntitiesLayer\obj\Release\EntitiesLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\EntitiesLayer\obj\Release\EntitiesLayer.pdb

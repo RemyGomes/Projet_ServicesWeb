@@ -1,0 +1,9 @@
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Release\StubDataAccessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Release\StubDataAccessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Release\EntitiesLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Release\EntitiesLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Release\StubDataAccessLayer.csprojAssemblyReference.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Release\StubDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Release\StubDataAccessLayer.csproj.CopyComplete
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Release\StubDataAccessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Release\StubDataAccessLayer.pdb
