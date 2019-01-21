@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ThronesTournamentManager..cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -49,9 +49,9 @@
       <Project>{bf2ed5b7-137e-4f98-9eb1-fc95a4f50fcb}</Project>
       <Name>EntitiesLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ThronesTournamentConsole\ThronesTournamentConsole.csproj">
-      <Project>{90e38f68-11a2-44b2-9417-191689de83a7}</Project>
-      <Name>ThronesTournamentConsole</Name>
+    <ProjectReference Include="..\StubDataAccessLayer\StubDataAccessLayer.csproj">
+      <Project>{849a8a8c-61cc-45a9-b7cf-6146f858b9fd}</Project>
+      <Name>StubDataAccessLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

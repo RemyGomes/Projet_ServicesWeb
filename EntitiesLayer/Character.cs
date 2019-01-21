@@ -9,11 +9,11 @@ namespace EntitiesLayer
     public class Character : EntityObject 
     {
 
-        private String firstName { get; set; }
-        private String lastName { get; set; }
-        private int bravoury { get; set; }
-        private int crazyness { get; set; }
-        private int pv { get; set; }
+        private String firstName;
+        private String lastName;
+        private int bravoury;
+        private int crazyness;
+        private int pv;
 
 
 
@@ -41,5 +41,51 @@ namespace EntitiesLayer
 
 
 
+
+        // Getters
+        public String GetFirstName()
+        {
+            return firstName;
+        }
+
+        public String GetLastName()
+        {
+            return lastName;
+        }
+        public int GetBravoury()
+        {
+            return bravoury;
+        }
+        public int GetCrazyness()
+        {
+            return crazyness;
+        }
+        public int GetPv()
+        {
+            return pv;
+        }
+
+        // Setters
+        public void SetFirstName(String name)
+        {
+            this.firstName = name;
+        }
+
+        public void SetLastName(String name)
+        {
+            this.lastName = name;
+        }
+        public void SetBravoury(int bravoury)
+        {
+            this.bravoury = bravoury;
+        }
+        public void SetCrazyness(int crazyness)
+        {
+            this.crazyness = crazyness;
+        }
+        public void SetPv(int pv)
+        {
+            this.pv = pv;
+        }
     }
 }

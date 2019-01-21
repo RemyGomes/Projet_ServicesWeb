@@ -41,14 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DalManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
-      <Project>{e8b4f304-13da-4bc5-a914-c88d4a81d8d7}</Project>
-      <Name>BusinessLayer</Name>
-    </ProjectReference>
     <ProjectReference Include="..\EntitiesLayer\EntitiesLayer.csproj">
       <Project>{bf2ed5b7-137e-4f98-9eb1-fc95a4f50fcb}</Project>
       <Name>EntitiesLayer</Name>

@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace EntitiesLayer
 {
-    class Territory : EntityObject
+    public class Territory : EntityObject
     {
-        public House owner { get; set; }
-        public TerritoryType typeOfTerritory { get; set; }
+        private House owner;
+        private TerritoryType typeOfTerritory;
 
         public Territory(House owner, TerritoryType typeOfTerritory)
         {
@@ -18,6 +18,26 @@ namespace EntitiesLayer
         }
 
 
+        // Getters
+        public House GetOwner()
+        {
+            return owner;
+        }
 
+        public TerritoryType GetTypeOfTerritory()
+        {
+            return typeOfTerritory;
+        }
+
+        // Setters
+        public void SetOwner(House owner)
+        {
+            this.owner = owner;
+        }
+
+        public void SetTypeOTerritory(TerritoryType typeOfTerritory)
+        {
+            this.typeOfTerritory = typeOfTerritory;
+        }
     }
 }

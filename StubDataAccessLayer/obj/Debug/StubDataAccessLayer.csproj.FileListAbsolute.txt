@@ -1,0 +1,18 @@
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojAssemblyReference.cache
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csproj.CopyComplete
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojAssemblyReference.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csproj.CopyComplete
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb

@@ -1,0 +1,22 @@
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\bin\Debug\EntitiesLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\bin\Debug\StubDataAccessLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\bin\Debug\StubDataAccessLayer.pdb
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ISIMA\ZZ2\Services Web\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\bin\Debug\EntitiesLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\bin\Debug\StubDataAccessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\bin\Debug\StubDataAccessLayer.pdb
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Utilisateurs\Desktop\ISIMA_COURS\Projet_ServicesWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb

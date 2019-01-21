@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace EntitiesLayer
 {
-    enum TerritoryType { SEA, MOUNTAIN, LAND, DESERT };
+    public enum TerritoryType { SEA, MOUNTAIN, LAND, DESERT };
 }

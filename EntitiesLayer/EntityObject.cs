@@ -8,6 +8,23 @@ namespace EntitiesLayer
 {
     public class EntityObject
     {
-        private int id { get; set; }
+        /*private int id;
+
+
+        public EntityObject(int id)
+        {
+            this.id = id;
+        }
+        // Getters
+        public int GetId()
+        {
+            return id;
+        }
+
+        // Setters
+        public void SetId(int id)
+        {
+            this.id = id;
+        }*/
     }
 }
